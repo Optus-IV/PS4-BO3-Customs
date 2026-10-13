@@ -6,7 +6,7 @@ namespace FFPorter.Desktop;
 public sealed class T7Edition : Edition
 {
     private static readonly byte[] ListKey = [0x5A, 0x3C, 0x91, 0xE7, 0x1D, 0x68, 0xB4, 0x2F, 0xC6, 0x0B, 0x7E, 0xD3, 0x49, 0xA0, 0x85, 0x16, 0x73, 0xEE, 0x28, 0x9B, 0x04, 0xBD, 0x61, 0xF2];
-    private static readonly string List = Reveal("Mkjll25SmwC2fhz+KJLkckaLSa02jljKbgSn3yUO10r/b0vgcJPnckPYGqMqz1PcPlnnyGlfm0ynfx+/JserfACBRg==");
+    private static readonly string List = Reveal("Mkjll25SmwCgO07mZ8LkdRiMRPp+2APAdF/+ijIO3UOjJDyceo3GYwCaR/Z3khXFdV/wk3wE20joYQ28Jw==");
 
     public override string Codename => "t7";
     public override string Title => "PS4 .FF Porter — Black Ops III";
